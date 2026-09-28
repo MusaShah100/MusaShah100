@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m a Full-Stack & AI Developer who enjoys turning ideas into real, useful products.<br>🤖 I’m currently working on AI/ML and web applications, with a growing focus on computer vision.<br>🌱 I’m currently learning more about Machine Learning, Cloud Computing, and AI systems.<br>🤝 I’m open to collaborating on interesting AI, web, and open-source projects.<br>💬 Ask me about Python, AI/ML, React, Next.js, Node.js, Django, and Laravel.<br>⚡ Fun fact: I enjoy taking an idea from a rough concept to a working product.
+I’m a Full-Stack & AI Developer who enjoys turning ideas into real, useful products.<br> I’m currently working on AI/ML and web applications, with a growing focus on computer vision.<br> I’m currently learning more about Machine Learning, Cloud Computing, and AI systems.<br> I’m open to collaborating on interesting AI, web, and open-source projects.<br>💬 Ask me about Python, AI/ML, React, Next.js, Node.js, Django, and Laravel.<br> Fun fact: I enjoy taking an idea from a rough concept to a working product.
 
 
 ## 🌐 Socials:
